@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @hrish1012
-- 👀 I’m interested in frontend developemnt,advanced python
-- 🌱 I’m currently learning reactJS,machine learning in python
-- 💞️ I’m looking to collaborate on Open Source Projects
+- 👋 Hi, I’m Hrishita Barkhade.
+- Final Year Computer Science Undergraduate | Enthusiast Learner | Student at Shri Ramdeobaba College of Engineering and Management, Nagpur
+- 👀 I’m interested in frontend development, especially using ReactJS and advanced Python in ML and DL.
+- SKILLS: · Web Development · React.js · Project Management · Leadership · User Experience (UX) · Machine Learning
+- 🌱 I’m currently mastering ReactJS, along with hands-on practice in implementing machine learning in Python.
 - 📫 Reach me at hrishita1012@gmail.com
 
 <!---
